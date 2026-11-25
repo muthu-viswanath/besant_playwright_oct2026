@@ -1,0 +1,5 @@
+Create a inheritance implementation such that if the given object is
+
+Employee: Give offer of 15% to the Employee
+Student: Give offer of 25% to the Student
+Citizen: Give 5% offer 
